@@ -7,3 +7,6 @@
 [submodule "fluid-simulator"]
 	path = fluid-simulator
 	url = ../fluid-simulator
+[submodule "mathemaster"]
+	path = mathemaster
+	url = ../mathemaster
