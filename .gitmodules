@@ -1,0 +1,6 @@
+[submodule "todo-list"]
+	path = todo-list
+	url = ../todo-list
+[submodule "ciel"]
+	path = ciel
+	url = ../ciel
