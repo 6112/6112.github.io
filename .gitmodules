@@ -4,3 +4,6 @@
 [submodule "ciel"]
 	path = ciel
 	url = ../ciel
+[submodule "fluid-simulator"]
+	path = fluid-simulator
+	url = ../fluid-simulator
