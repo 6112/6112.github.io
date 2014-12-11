@@ -10,6 +10,3 @@
 [submodule "mathemaster"]
 	path = mathemaster
 	url = ../mathemaster
-[submodule "js-curses"]
-	path = js-curses
-	url = git@github.com:6112/js-curses.git
