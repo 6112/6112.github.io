@@ -1,15 +1,15 @@
 [submodule "todo-list"]
 	path = todo-list
-	url = ../todo-list
+	url = git@github.com:6112/todo-list.git
 [submodule "ciel"]
 	path = ciel
-	url = ../ciel
+	url = git@github.com:6112/ciel.git
 [submodule "fluid-simulator"]
 	path = fluid-simulator
-	url = ../fluid-simulator
+	url = git@github.com:6112/fluid-simulator.git
 [submodule "mathemaster"]
 	path = mathemaster
-	url = ../mathemaster
+	url = git@github.com:6112/mathemaster.git
 [submodule "js-curses"]
 	path = js-curses
-	url = ../js-curses
+	url = git@github.com:6112/js-curses.git
